@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">XFrag</string>
+    <string name="nofrom">栈中暂时没有Fragment 无法隐藏 建议初始化一个Fragment 或设置hide为false</string>
+    <string name="click_delay">亲点击太快了</string>
+    <string name="nolayout_id">Requst没有指定有效的fragLayoutId</string>
+    <string name="no_target">open close hide show----目标fragment不能为空</string>
+    <string name="setArguments">Fragment已启动 无法传输数据</string>
+    <string name="stack_error">栈数据异常</string>
+    <string name="close_hide_lock">不能关闭或隐藏，已经锁定的Fragment，请先解锁！</string>
+    <string name="close_non_existent">关闭对象不存在</string>
+    <string name="hide_non_existent">隐藏对象不存在</string>
+    <string name="show_non_existent">显示对象不存在</string>
+</resources>
